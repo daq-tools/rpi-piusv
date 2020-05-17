@@ -6,7 +6,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 README = open(os.path.join(here, 'README.rst'), encoding="utf-8").read()
 
 setup(name='rpi-piusv',
-      version='0.0.0',
+      version='0.1.0',
       description='Python module for RPI USV+ Raspberry Pi - USV+',
       long_description=README,
       license="LGPL 3, EUPL 1.2",
